@@ -4,8 +4,6 @@
 # VANTA_KEY (the Vanta per-domain secret key)
 # VANTA_NOSTART (if true, then don't start the service upon installation.)
 
-set -e
-
 DEB_URL="https://vanta-agent.s3.amazonaws.com/v1.5.0/vanta.deb"
 RPM_URL="https://vanta-agent.s3.amazonaws.com/v1.5.0/vanta.rpm"
 # Checksums for v1.5.0; need to be updated when PKG_URL is updated.
