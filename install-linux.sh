@@ -1,4 +1,4 @@
-#!/bin/bash
+echo "HERRRRROOOO"
 
 # Available environment variables:
 # VANTA_KEY (the Vanta per-domain secret key)
